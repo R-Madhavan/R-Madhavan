@@ -35,8 +35,12 @@ I'm a **Computer Science graduate** who enjoys building technology solutions and
 ## 📧 Contact Me
 
 <p align="center">
-  <a href="madhavan3102002@gmail.com"><img src="https://img.shields.io/badge/Email-FFCC66?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/madhavan-r1/"><img src="https://img.shields.io/badge/LinkedIn-F2E6D9?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
+  <a href="mailto:madhavan3102002@gmail.com?subject=Hello%20Madhavan!&body=I%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.">
+    <img src="https://img.shields.io/badge/Email-FFCC66?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/madhavan-r1/">
+    <img src="https://img.shields.io/badge/LinkedIn-F2E6D9?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
+  </a>
 </p>
 
 ---
