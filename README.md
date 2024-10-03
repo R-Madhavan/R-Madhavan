@@ -36,7 +36,7 @@ I'm a **Computer Science graduate** who enjoys building technology solutions and
 
 <p align="center">
   <a href="mailto:madhavan3102002@gmail.com"><img src="https://img.shields.io/badge/Email-FFCC66?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
-  <a href="www.linkedin.com/in/madhavan-r1"><img src="https://img.shields.io/badge/LinkedIn-F2E6D9?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/madhavan-r1/"><img src="https://img.shields.io/badge/LinkedIn-F2E6D9?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"></a>
 </p>
 
 ---
