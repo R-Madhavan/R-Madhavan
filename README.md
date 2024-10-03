@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Madhavan!
 
-I'm a **Computer Science graduate** who enjoys building technology solutions and exploring new ideas. I have experience in web development, machine learning, and IoT, and I'm always keen on collaborating to create something amazing.
+I'm a **Computer Science graduate** who enjoys building technology solutions and exploring new ideas. I have some experience in Front-end Development, machine learning, and in Generative AI and I'm always keen on collaborating to create something amazing.
 
 ---
 
@@ -41,11 +41,9 @@ I'm a **Computer Science graduate** who enjoys building technology solutions and
 
 ---
 
-## 🏆 Achievements
+## 🏆 Research
 
-- 🎖️ Certified in Machine Learning
-- 🏅 Published research on **DeepFake Detection**
-- 🎓 Graduated from Columbia University of Technology in Monterey with a **Bachelor's in Computer Science & Engineering**
+- 🏅 Published research on **Video Morphing Attack Detection using Convolutional Neural Networks on Deep Fake Detection Algorithm**
 
 ---
 
