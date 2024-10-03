@@ -27,7 +27,7 @@ I'm a **Computer Science graduate** who enjoys building technology solutions and
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=R-Madhavan&show_icons=true&theme=highcontrast&icon_color=FFCC66&title_color=FFCC66&text_color=F2F2F2&bg_color=1C1C1C" alt="Madhavan's GitHub Stats" />
   <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-github-username&theme=highcontrast&background=1C1C1C&title_color=FFCC66&text_color=F2E6D9" alt="GitHub Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R-Madhavan&theme=highcontrast&background=1C1C1C&title_color=FFCC66&text_color=F2E6D9" alt="GitHub Activity" />
 </p>
 
 ---
