@@ -48,7 +48,7 @@ I'm a **Computer Science graduate** who enjoys building technology solutions and
 ## 🏆 Research
 
 - 🏅 Published research on **Video Morphing Attack Detection using Convolutional Neural Networks on Deep Fake Detection Algorithm**
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=YourUsername.YourUsername)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=R-Madhavan.R-Madhavan)
 
 ---
 
