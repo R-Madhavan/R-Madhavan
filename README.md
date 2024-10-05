@@ -1,5 +1,4 @@
 ---
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/R-Madhavan/&title=Profile%20Views)
 
 # Hi there 👋, I'm Madhavan!
 
@@ -57,3 +56,4 @@ I'm a **Computer Science graduate** who enjoys building technology solutions and
 _"I'm always learning something new, whether it's tech-related or just a new hobby. Connecting with people to learn about their experiences is something that excites me!"_
 
 ---
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/R-Madhavan/&title=Profile%20Views)
