@@ -8,6 +8,7 @@
 
 A **Computer Science graduate** who enjoys building technology solutions and exploring new ideas. I have some experience in Front-end Development, machine learning, and in Generative AI and I'm always keen on collaborating to create something amazing.
 
+
 ---
 
 ## 🛠 Skills
